@@ -51,5 +51,5 @@ Ambas implementaciones cumplen con las siguientes capacidades:
 
 ---
 **Docente:** Alexander Narváez Berrío  
-**Fecha:** Febrero 2026  
+**Fecha:** Marzo 16, 2026  
 **Repositorio:** [leoduarte-ops/PRACTICA-PARADIGMAS-DE-PROGRAMACION](https://github.com/leoduarte-ops/PRACTICA-PARADIGMAS-DE-PROGRAMACION)
